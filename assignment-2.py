@@ -123,6 +123,11 @@ pprint.pprint("")
 pprint.pprint("")
 
 # Matematiske udregninger
+# OLS
+# https://www.datarobot.com/blog/ordinary-least-squares-in-python/
+
+# Logit Regression
+# https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python
 pprint.pprint("")
 
 # Udførelse af opgave

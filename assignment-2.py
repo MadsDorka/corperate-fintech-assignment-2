@@ -82,6 +82,7 @@ pprint.pprint("")
 pprint.pprint("")
 
 # Matematiske udregninger
+# Use pandas .describe + numpy .median to get the values they ask for!
 pprint.pprint("")
 
 # Udførelse af opgave
@@ -94,6 +95,8 @@ pprint.pprint("")
 pprint.pprint("")
 
 # Matematiske udregninger
+# Fog Index = 0.4 *(average # of words per sentence + 100 * percent of complex words)
+
 pprint.pprint("")
 
 # Udførelse af opgave

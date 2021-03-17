@@ -109,6 +109,8 @@ pprint.pprint("")
 pprint.pprint("")
 
 # Matematiske udregninger
+
+#See previous exercises made in class
 pprint.pprint("")
 
 # Udførelse af opgave
